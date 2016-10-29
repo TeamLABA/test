@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-a
-=======
 kumamaru
->>>>>>> origin/master
+
