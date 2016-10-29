@@ -1,7 +1,12 @@
 kumamaru happy
 
+<<<<<<< HEAD
 abcDDD
 
+=======
+
+xyz1
+>>>>>>> origin/master
 
 test
 
