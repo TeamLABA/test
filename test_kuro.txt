@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 kumamaru happy
 
 
@@ -6,3 +7,5 @@ xyz1
 test
 
 wroten 
+=======
+>>>>>>> parent of 2645845... tes_ITO
